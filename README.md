@@ -37,6 +37,6 @@ These are resources, usually programs to generate resources to make physical, to
 
 [Nuclear Bomb Effects Computer](https://www.fourmilab.ch/bombcalc/) - Reconstruction of a rare circular slide rule distributed in a Department of Energy report by [John Walker](https://en.wikipedia.org/wiki/John_Walker_(programmer)). Detailed instructions [here](https://www.fourmilab.ch/bombcalc/brico.html) and [here](https://www.fourmilab.ch/bombcalc/production.html). [Github repo](https://github.com/Fourmilab/bombcalc_nuclear_bomb_effects_computer) 
 
-[UlreaLog 0973] (https://www.rechenschieber.org/2006/02/ultralog-0973/) - An attempt to make a modern slide rule manufactured with modern methods
+[UltraLog 0973](https://www.rechenschieber.org/2006/02/ultralog-0973/) - An attempt to make a modern slide rule manufactured with modern methods
 
 [Dylan's Interactive Haskell Scale Generator](https://github.com/dylan-thinnes/slide-rules-generator) – A nice interactive Haskell based tool to generate scales for replicas. Simple ScaleSpec datastructure with examples to make any scale you can concieve of - even circular ones!
