@@ -1,5 +1,5 @@
 # awesome-sliderules
-A list of all the awesome resources out there I have found in my quest to build a slide rule
+A list of all the awesome resources out there I have found in my quest to build a slide rule as a modern application on mobile and desktop
 
 ## References
 [The International Slide Rule Museum](https://sliderulemuseum.com/) - The de-facto reference source for detailed information, both technical and historical. Very complete image catalog and manual collections
